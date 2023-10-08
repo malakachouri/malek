@@ -7,7 +7,7 @@ stages:
 # Define variables or environment variables
 variables:
   DB_HOST: "localhost"
-  DB_USERNAME: "myuser"
+  DB_USERNAME: "my user"
   DB_PASSWORD: "mypassword"
 
 # Define the jobs for each stage
